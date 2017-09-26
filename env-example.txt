@@ -1,0 +1,7 @@
+OAUTH2_GOOGLE_CLIENT_ID=xxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com
+OAUTH2_GOOGLE_CLIENT_SECRET=xxxxxxxxxxxxxxxxxxxxxxxx
+OAUTH2_GOOGLE_CALLBACK_PATH=/auth/google/callback
+SESSION_SECRET=MUMSTHEWORD
+PORT=8080
+REDIS_HOST=127.0.0.1
+REDIS_PORT=6379
